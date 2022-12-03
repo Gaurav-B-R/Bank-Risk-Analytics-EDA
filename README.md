@@ -1,6 +1,6 @@
 # Bank-Risk-Analytics-EDA
 <h2><b>Business Understanding</b></h2>
-The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose you work for a consumer finance company which specialises in lending various types of loans to urban customers. You have to use EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
+The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose I work for a consumer finance company which specialises in lending various types of loans to urban customers. I have to use EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
 
  
 
@@ -30,7 +30,7 @@ Refused: The company had rejected the loan (because the client does not meet the
 
 Unused offer:  Loan has been cancelled by the client but at different stages of the process.
 
-In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency to default.
+In this case study, I will use EDA to understand how consumer attributes and loan attributes influence the tendency to default.
 
  
 
@@ -41,7 +41,6 @@ This case study aims to identify patterns which indicate if a client has difficu
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
 
-To develop your understanding of the domain, you are advised to independently research a little about risk analytics - understanding the types of variables and their significance should be enough.
 
 <h2><b>Data Understanding</h2></b>
 This dataset has 3 files as explained below: 
